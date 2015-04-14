@@ -4,6 +4,7 @@
 *.gch
 
 build/*
+tests/[^.]*
 
 CMakeCache.txt
 CMakeFiles
